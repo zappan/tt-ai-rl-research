@@ -1,0 +1,16 @@
+# Local planning scratch space
+.agent-inputs/*
+.agent-plans/*
+!.agent-plans/PLAN_TEMPLATE.md
+docs/ephemeral-docs.gitignore/*
+!docs/ephemeral-docs.gitignore/.gitkeep
+
+.idea/
+.vscode/
+*.gititnore
+*.gititnore.*
+*.bak
+*.log
+*.swp
+*.swo
+*~
