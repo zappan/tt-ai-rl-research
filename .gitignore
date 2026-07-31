@@ -5,6 +5,8 @@
 docs/ephemeral-docs.gitignore/*
 !docs/ephemeral-docs.gitignore/.gitkeep
 
+.devcontainer/
+
 .idea/
 .vscode/
 *.gititnore
